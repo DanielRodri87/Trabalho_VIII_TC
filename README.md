@@ -69,12 +69,9 @@ Contribuições são bem-vindas. Abra issues para bugs e feature requests. Faça
 
 Créditos
 -------
-- Autor(es): (adicione nome(s) aqui)
+- Autor(es): Daniel Rodrigues e Cristina
 - Disciplina: Tópicos — UFPI
 
-Licença
--------
-Adicione a licença do projeto (por exemplo, MIT). Se ainda não definida, adicione um arquivo LICENSE com o texto apropriado.
 
 Contato
 -------
